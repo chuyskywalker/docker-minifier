@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM alpine:3.4
 
 ENV MINIFY_VERSION=2.0.0
 
